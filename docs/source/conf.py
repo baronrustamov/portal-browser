@@ -163,8 +163,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'BraveBrowser', 'Brave Browser Documentation',
-     author, 'BraveBrowser', 'One line description of project.',
+    (master_doc, 'PortalBrowser', 'Brave Browser Documentation',
+     author, 'VladislavSorokin', 'One line description of project.',
      'Miscellaneous'),
 ]
 
